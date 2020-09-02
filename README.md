@@ -1,2 +1,2 @@
 # FakeGolang
-Make out C++ looked like the Golang.
+Make our C++ looks like the Golang.
